@@ -156,8 +156,3 @@ npm --prefix client run build
 - Founder content/gallery: `client/src/app/data/founder.ts`
 - Brand logo: `client/public/images/smilecare-logo.png`
 
-## Attribution
-
-- shadcn/ui (MIT): https://ui.shadcn.com/
-- Unsplash license: https://unsplash.com/license
-- More details: `ATTRIBUTIONS.md`
