@@ -8,10 +8,6 @@ Modern, responsive dental clinic website with:
 
 This is now a working fullstack base you can deploy publicly.
 
-## Figma Source
-
-- https://www.figma.com/design/jUAsUCBPTRQF8oolxNjDMs/Design-SmileCare-Website-UIUX
-
 ## Stack
 
 - Frontend: React, TypeScript, Vite, Tailwind v4, React Router, shadcn/ui
